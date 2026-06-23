@@ -15,7 +15,7 @@
 | 🟠 **NEEDED (VN/parity gap)** | Bắt buộc cho VN hoặc Amazon-parity, **chưa nằm trong plan** | 0% |
 | 💡 **VISION** | Tầm nhìn dài hạn (có precedent + math), chưa cam kết lịch | 0–5% |
 
-> **Nguyên tắc trung thực:** % là ước lượng kỹ-sư, đánh dấu rõ DONE/PARTIAL/PLANNED/NEEDED. Nhà đầu tư giỏi phát hiện "vision trá hình DONE" rất nhanh — sự minh bạch này **chính là** điểm tin cậy của ICP.
+
 
 ---
 
