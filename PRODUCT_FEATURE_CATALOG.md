@@ -1,8 +1,7 @@
 # ICP — Product Feature Catalog & Roadmap (Master Reference)
 
 > **Mục đích:** tài liệu duy nhất để **founder · kỹ-sư · nhà đầu tư** nhìn toàn bộ hệ thống ICP — mọi tính năng (đã có / đang làm / sẽ làm / cần làm cho thị trường VN + Amazon-parity 100%), kèm **trạng thái + % hoàn thành** và **lộ trình**.
-> **Cập nhật:** 2026-06-23 · **Nguồn neo:** FACTS.md · docs/decisions/ADR-* · docs/slices/archive/ · PROGRAM_AMAZON_PARITY.md · PROGRAM_INTENT_COMPLETION.md.
-> **Cách dùng:** đây là **bản đồ phát triển sống** — mỗi lần đóng tính năng, cập nhật trạng thái + % ở bảng tương ứng. Slice mới nên trỏ về mục này.
+
 
 ---
 
