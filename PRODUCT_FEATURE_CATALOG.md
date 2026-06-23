@@ -23,10 +23,6 @@
 
 **ICP (Intelligent Commerce Platform)** = nền **thương mại đa-tenant SaaS "Amazon cho tiệm nhỏ Việt Nam"**: chủ shop / nhà phân phối / người mua cùng vận hành trên một nền — đăng bán, tìm kiếm bằng **giọng nói · ảnh · text (AI)**, thanh toán nội địa (Momo/ZaloPay/VNPay/COD), và (lộ trình) **dự báo nhập hàng + cho vay theo doanh số**.
 
-**Vì sao đáng đầu tư — 3 điểm:**
-1. **ĐÃ CHẠY THẬT, không phải slide.** ~435 commit · 53+ migration · CI hard-gate · thanh toán IPN ký-verify thật · multi-tenant RLS enforce runtime · compliance VN+GDPR · e2e cross-tenant. → **khử rủi-ro-thực-thi**, thứ giết phần lớn startup.
-2. **Moat dữ-liệu + tuân-thủ.** 31 loại behavior-event nuôi AI; compliance build-sẵn-day-1 (đối thủ retrofit năm-3); thanh toán VN localized.
-3. **Đòn bẩy doanh thu xếp sẵn.** SaaS (subscription) + revenue-share **lending** + **ads** + **B2B phân phối** — kiến trúc đã chừa chỗ, không phải đập đi xây lại.
 
 **Mức hoàn thành tổng thể** (so với tầm nhìn đầy đủ Amazon-parity + VN + AI + B2B):
 
