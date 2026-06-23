@@ -27,17 +27,16 @@
 **Mức hoàn thành tổng thể** (so với tầm nhìn đầy đủ Amazon-parity + VN + AI + B2B):
 
 ```
-Lõi thương mại merchant↔buyer  ████████████████░░░░  ~80%   (đã de-risk)
-Khám phá/discovery (AI search) ████████████░░░░░░░░  ~60%
-Trí tuệ (forecast/reco/lending)██░░░░░░░░░░░░░░░░░░  ~10%   (data sẵn, model chưa)
+Lõi thương mại merchant↔buyer  ███████░░░░░░░░░░░░░ ~40%   (đã de-risk)
+Khám phá/discovery (AI search) ████░░░░░░░░░░░░░░░░  ~20%
+Trí tuệ (forecast/reco/lending)█░░░░░░░░░░░░░░░░░░░  ~5%   (data sẵn, model chưa)
 B2B nhà phân phối               ██░░░░░░░░░░░░░░░░░░  ~10%
 VN-thiết-yếu (e-invoice/ship/Zalo/mobile/VietQR) █░░░░░░░  ~5%
-Tuân thủ & nền tảng             █████████████████░░░  ~85%
+Tuân thủ & nền tảng             █████████░░░░░░░  ~55%
 ─────────────────────────────────────────────────────────
-TỔNG (vision đầy đủ)            ████████░░░░░░░░░░░░  ~40–45%
+TỔNG (vision đầy đủ)            █████░░░░░░░░░░░░░░░  ~20–25%
 ```
 
-> **Thông điệp:** lõi đã vững và thật; phần còn lại là **lộ trình thực-thi rõ ràng**, không phải nghiên cứu rủi ro.
 
 ---
 
